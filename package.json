@@ -1,0 +1,19 @@
+{
+  "name": "jeopardy-game-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djr5590/Jeopardy-Game-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djr5590/Jeopardy-Game-Project/issues"
+  },
+  "homepage": "https://github.com/djr5590/Jeopardy-Game-Project#readme"
+}
